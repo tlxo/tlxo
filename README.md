@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tlxo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning to build static websites with Eleventy and brushing up my Swift skills.
-- 📫 You can reach me by email via hello at tlxo dot fi.
+- 📫 You can reach me via email at hello at tlxo dot fi.
 
 <!---
 tlxo/tlxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
