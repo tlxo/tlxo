@@ -1,8 +1,8 @@
 👋 Hi, I’m @tlxo (or *Toni Laakso* if you're into more traditional ways of spelling).
 
-👀 I’m interested in [all kinds of good music](https://bandcamp.com/tlxo)), the web as a medium, and uncompromising user experiences. 
+🛠️ I help developers and designers build accessible software, and their managers to see why inclusivity is essential.
 
-🛠️ I work help devs and designers build accessible software, and their managers to see why inclusivity is essential.
+👀 I’m interested in [all kinds of good music](https://bandcamp.com/tlxo)), the web as a medium, and uncompromising user experiences. 
 
 🎖️ My hobbies also include collecting certifications.
 
