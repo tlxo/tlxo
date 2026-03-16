@@ -4,9 +4,10 @@
 
 🛠️ I work help devs and designers build accessible software, and their managers to see why inclusivity is essential.
 
-[![GitHub Admin certification]([https://learn.microsoft.com/en-us/media/learn/certification/badges/github-actions.svg](https://learn.microsoft.com/en-us/media/learn/certification/badges/github-administration.svg))](https://learn.microsoft.com/en-us/users/tlxo/credentials/8e0e1f030937e794?ref=https%3A%2F%2Fwww.credly.com%2F)
-[![GitHub Actions certification](https://learn.microsoft.com/en-us/media/learn/certification/badges/github-actions.svg)](https://learn.microsoft.com/en-us/users/tlxo/credentials/96bf4efef4d93b60?ref=https%3A%2F%2Fwww.credly.com%2F)
-[![GitHub Copilot certification](https://learn.microsoft.com/en-us/media/learn/certification/badges/github-copilot.svg)](https://learn.microsoft.com/en-us/users/tlxo/credentials/f001c9f4a27a86c5?ref=https%3A%2F%2Fwww.credly.com%2F)
+🤓 I also dabble with GitHub.
+[![GitHub Admin certification](https://learn.microsoft.com/en-us/media/learn/certification/badges/github-administration.svg)](https://learn.microsoft.com/en-us/users/tlxo/credentials/8e0e1f030937e794)
+[![GitHub Actions certification](https://learn.microsoft.com/en-us/media/learn/certification/badges/github-actions.svg)](https://learn.microsoft.com/en-us/users/tlxo/credentials/96bf4efef4d93b60)
+[![GitHub Copilot certification](https://learn.microsoft.com/en-us/media/learn/certification/badges/github-copilot.svg)](https://learn.microsoft.com/en-us/users/tlxo/credentials/f001c9f4a27a86c5)
 
 <!---
 tlxo/tlxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
