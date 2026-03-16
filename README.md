@@ -5,6 +5,7 @@
 🛠️ I work help devs and designers build accessible software, and their managers to see why inclusivity is essential.
 
 🤓 I also dabble with GitHub.
+
 [![GitHub Admin certification](https://learn.microsoft.com/en-us/media/learn/certification/badges/github-administration.svg)](https://learn.microsoft.com/en-us/users/tlxo/credentials/8e0e1f030937e794)
 [![GitHub Actions certification](https://learn.microsoft.com/en-us/media/learn/certification/badges/github-actions.svg)](https://learn.microsoft.com/en-us/users/tlxo/credentials/96bf4efef4d93b60)
 [![GitHub Copilot certification](https://learn.microsoft.com/en-us/media/learn/certification/badges/github-copilot.svg)](https://learn.microsoft.com/en-us/users/tlxo/credentials/f001c9f4a27a86c5)
