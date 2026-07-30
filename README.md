@@ -2,7 +2,7 @@
 
 🛠️ I help developers and designers build accessible software, and their managers understand why inclusivity is essential.
 
-👀 I’m interested in [all kinds of good music](https://bandcamp.com/tlxo)), the web as a medium, and uncompromising user experiences. 
+👀 I’m interested in [all kinds of good music](https://bandcamp.com/tlxo), the web as a medium, and uncompromising user experiences. 
 
 🎖️ My hobbies also include collecting certifications.
 
