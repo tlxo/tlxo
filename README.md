@@ -4,7 +4,7 @@
 
 👀 I’m interested in [all kinds of good music](https://bandcamp.com/tlxo), the web as a medium, and uncompromising user experiences. 
 
-🎖️ My hobbies also include collecting certifications.
+<!--- 🎖️ My hobbies also include collecting certifications.
 
 <a href="https://www.credly.com/earner/earned/badge/bf02f2a2-8db2-45a9-8e77-7fc1c530fbda"><img src="https://images.credly.com/size/680x680/images/65939af6-9fdb-469f-a7cb-515f5c876fab/blob" width="60" alt="IAAP Certified Professional in Web Accessibility certification"></a>
 <a href="https://www.credly.com/earner/earned/badge/7d7d4c44-8582-4dc3-83fc-3d239ccd6c60"><img src="https://images.credly.com/size/680x680/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" width="60" alt="Professional Scrum Product Owner™ I certification"></a>
@@ -15,7 +15,4 @@
 <a href="https://www.credly.com/earner/earned/badge/158caf6b-7915-4d44-8e55-b0d146989a1c"><img src="https://images.credly.com/size/680x680/images/33114f54-24fd-4187-8a53-9be8dfd7f4f7/blob" width="60" alt="GitHub Partner Sales Professional certification"></a>
 
 
-<!---
-tlxo/tlxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
