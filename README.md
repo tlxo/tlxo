@@ -1,18 +1,7 @@
-👋 Hi, I’m @tlxo (or *Toni Laakso* if you're into more traditional ways of spelling).
+20+ years in software: release engineering, QA, product ownership, web development, and UX, with the last several years focused on digital accessibility. 
 
-🛠️ I help developers and designers build accessible software, and their managers understand why inclusivity is essential.
+What ties it all together is an interest toward problems that don't have a shape yet: I've founded and run a game studio, rebuilt QA processes from scratch, helped define how a company talks to its users... Lately I'm especially interested in how AI-assisted tooling can help teams build accessible software at scale, rather than just audit it after the fact. 
 
-👀 I’m interested in [all kinds of good music](https://bandcamp.com/tlxo), the web as a medium, and uncompromising user experiences. 
+Native Finnish, fluent Swedish and English. 
 
-<!--- 🎖️ My hobbies also include collecting certifications.
-
-<a href="https://www.credly.com/earner/earned/badge/bf02f2a2-8db2-45a9-8e77-7fc1c530fbda"><img src="https://images.credly.com/size/680x680/images/65939af6-9fdb-469f-a7cb-515f5c876fab/blob" width="60" alt="IAAP Certified Professional in Web Accessibility certification"></a>
-<a href="https://www.credly.com/earner/earned/badge/7d7d4c44-8582-4dc3-83fc-3d239ccd6c60"><img src="https://images.credly.com/size/680x680/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" width="60" alt="Professional Scrum Product Owner™ I certification"></a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/tlxo/4121EE7DA8806CB7?sharingId=3D780A7450961C74"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-foundations.svg" width="60" alt="GitHub Foundations certification"></a>
-<a href="https://learn.microsoft.com/en-us/users/tlxo/credentials/8e0e1f030937e794"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-administration.svg" width="60" alt="GitHub Admin certification"></a>
-<a href="https://learn.microsoft.com/en-us/users/tlxo/credentials/96bf4efef4d93b60"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-actions.svg" width="60" alt="GitHub Actions certification"></a>
-<a href="https://learn.microsoft.com/en-us/users/tlxo/credentials/f001c9f4a27a86c5"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-copilot.svg" width="60" alt="GitHub Copilot certification"></a>
-<a href="https://www.credly.com/earner/earned/badge/158caf6b-7915-4d44-8e55-b0d146989a1c"><img src="https://images.credly.com/size/680x680/images/33114f54-24fd-4187-8a53-9be8dfd7f4f7/blob" width="60" alt="GitHub Partner Sales Professional certification"></a>
-
-
---->
+Of course, if I didn't need the money, I'd focus on playing jazz guitar.
